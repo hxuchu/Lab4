@@ -56,7 +56,7 @@ public class MainActivity2 extends AppCompatActivity {
                         ice_opt = "少冰";
                         break;
                     case R.id.radioButton7:
-                        sugar = "正常冰";
+                        ice_opt = "正常冰";
                         break;
                 }
             }
